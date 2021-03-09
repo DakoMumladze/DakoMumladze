@@ -1,5 +1,5 @@
 ### Welcome to my github 👋
-![image](https://user-images.githubusercontent.com/26866143/110526983-e0ce6200-812f-11eb-8c6b-951ced4ccc3e.png)
+![image](https://user-images.githubusercontent.com/26866143/110527136-06f40200-8130-11eb-91d8-877cc9c00bca.png)
 
 <!--
 **DakoMumladze/DakoMumladze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
